@@ -1,0 +1,205 @@
+
+scenID= 0
+[SCENARIO] DESPAIR
+[DESCRIPTION] Frost has covered the wrought iron bars of your cell.  It’s dark but you can just make out haphazardly stacked supply boxes on the other side of the room. The grimy wooden walls of the brig creak and strain under the burden of the crushing ice.  The lock on your cell was broken on an earlier voyage and never repaired but it doesn’t matter because you are chained by the ankle to a metal ring on the floor.  The keys to your chains are hanging by door, out of reach.
+Inspect Environment
+It’s hopeless, sit down and give up
+Pull on the chain
+Shout for help
+[INSPECT ENVIRONMENT]  The only items in your cell are a small metal cup and the old worn blanket you’ve wrapped yourself in.  The floor is slick with accumulating ice.
+[YOU SUCCEED]  Despair overwhelms you.  Sitting on the cold floor of your cell, all you can think about is home and your inevitable fate.  In a fit of anger and frustration you throw your cup.  It bounces through the bars of your cell, hitting the precariously stacked boxes on the other side of the room.  They topple to the ground.
+[YOU FAIL]  You’ve tried this before but can’t see any other way to escape.  You stand up and grab the chain with both hands, leaning back, you pull as hard as you can.  The floor is covered in ice and you lose your balance, landing with a sickening crack, you realize that the fall has broken your wrist.
+[DEATH OCCURS] You shout for hours to no avail.  Darkness falls and you can no longer see anything around you.  The walls in the brig crack explosively, finally giving in to the ice.  You feel the freezing seawater rushing in...all hope is lost.
+END
+scenID= 1
+[SCENARIO] EXHAUSTION
+[DESCRIPTION]  Clenching your teeth in pain you cradle your wrist.  What now?
+Inspect Environment
+It’s hopeless, sit down and give up
+Pull on the chain
+Shout for help
+[INSPECT ENVIRONMENT]  The only items in your cell are a small metal cup and the old worn blanket you’ve wrapped yourself in.  The floor is slick with accumulating ice.  The light is fading, it will be dark soon.
+[YOU SUCCEED] Despair overwhelms you.  Sitting on the cold floor of your cell, all you can think about is home and your inevitable fate.  In a fit of anger and frustration you throw your cup.  It bounces through the bars of your cell, hitting the precariously stacked boxes on the other side of the room.  They topple to the ground.
+[YOU FAIL]  Your wrist is broken but you’re determined this is the only way out.  Staggering to your feet, you firmly grab the chain and pull.  Hours of pulling and straining against the chain are unsuccessful.  You are unable to escape.
+[DEATH OCCURS]  Overtaken by exhaustion, you decide to sit down and rest.  No one is coming for you.  Darkness falls and you can no longer see anything around you.  As the temperature plummets you start to feel your hands and feet tingling.  Delirious and cold you fall asleep, condemned to freeze in your icy tomb.
+END
+scenID= 2
+[SCENARIO] THE HARPOON
+[DESCRIPTION] The sound of the tumbling boxes startle you, their contents are strewn across the floor.  Something catches your eye. A harpoon that was leaning in the corner has fallen and might be within reach.  Stretching yourself across the floor you can just barely snag its’ rope with your fingers and pull it into your cell.
+Inspect Environment
+Attempt to break the chains’ anchor with the harpoon
+Attempt to use the harpoon to retrieve other items
+Attempt to use the harpoon to retrieve the keys
+[INSPECT ENVIRONMENT] The contents of the fallen boxes litter the floor.  Fishing tackle, empty cans, rope, and musty straw with other odds and ends lie within the harpoons’ reach.  The keys are still on the wall by the door next to a stack of unsteady wooden crates.
+[YOU SUCCEED]  Placing the tip of the harpoon in the ring on the floor, you tilt the harpoon up to get good leverage on it.  Using all your force the ring breaks free from the wooden plank it was fastened to.  You’re free!
+[YOU FAIL] While attempting to scoop items toward you with the harpoon you knock a heavy box onto your hand, breaking two fingers.
+[DEATH OCCURS]  While reaching for the keys you knock the wooden crates, causing the top crate to tumble down crushing your arm.  It must have contained heavy parts because you cannot free your pinned limb.  Severely maimed, even escape will not save you now.
+END
+scenID= 3
+[SCENARIO] CROSSROADS
+[DESCRIPTION]  You shout out in pain and pull the harpoon back into the cell.  Better not try that again.
+Inspect Environment
+Attempt to break the chains’ anchor with the harpoon
+Attempt to use the harpoon to retrieve other items
+Attempt to use the harpoon to retrieve the keys
+[INSPECT ENVIRONMENT]  The contents of the fallen boxes litter the floor.  Fishing tackle, empty cans, rope, and musty straw with other odds and ends lie within the harpoons’ reach.  The keys are still on the wall by the door next to a stack of unsteady wooden crates.
+[YOU SUCCEED]  Placing the tip of the harpoon in the ring on the floor, you tilt the harpoon up to get good leverage on it.  Using all your force the ring breaks free from the wooden plank it was fastened to.  You’re free!
+[YOU FAIL]  Broken fingers aren’t a big deal.  You decide to have another go at it.  Using the harpoon to aggressively shove boxes aside, you continue grabbing items.  With these items you try every way imaginable to pry or force the lock open.  Darkness comes, bringing it’s freezing arctic temperatures with it.  Unable to see what you are doing you must give up.
+[DEATH OCCURS]  While reaching for the keys you knock the wooden crates, causing the top crate to tumble down crushing your arm.  It must have contained heavy parts because you cannot free your pinned limb.  Severely maimed, even escape will not save you now.
+END
+scenID= 4
+[SCENARIO] FREE AT LAST
+[DESCRIPTION] The broken door to your cell opens easily.  Creaking and groaning, the walls of the brig are showing evidence of strain and small cracks in the wood are clearly evident.  The crew took what they could, carry but had to leave some of their resources behind.  It’s time to stock up and get out of here before the darkness falls or the ship sinks.
+Inspect Environment
+Open the box labeled “PROVISIONS”
+Open the box labeled “RATIONS”
+Forget the boxes, it’s time to get out
+[INSPECT ENVIRONMENT] Free to move around, you can now search boxes for items you need.
+[YOU SUCCEED] This box is full of useful items and even a bag to carry them in.
+[YOU FAIL] This box is full of canned goods.  After not eating for 72 hours, your hunger overpowers your will.  You hastily open and consume an entire can of peas and brined pork.  [20 MINUTES LATER…] You don’t feel so good.  You are overcome with nausea and abdominal pain.
+[DEATH OCCURS] Gripped by anxiety and panic, you decide to brave the cold without any resources.  You jump from the deck onto the sea ice and begin to walk.  Visibility is poor and the wind is fierce.  Instead of walking towards the shore you walk farther out onto the sea ice...
+END
+scenID= 5
+[SCENARIO] STOCK UP
+[DESCRIPTION]  You’re running out of time.  Stock up and get out of here before the darkness falls or the ship sinks.
+Inspect Environment
+Open the box labeled “PROVISIONS”
+Open the box labeled “RATIONS”
+Forget the boxes, it’s time to get out
+[INSPECT ENVIRONMENT]
+[YOU SUCCEED] This box is full of useful items and even a bag to carry them in.
+[YOU FAIL] The rest of the consumables are spoiled.  It appears this is why they were left behind.  You’ve have taken too long, it is now dark and you cannot see.    As the temperature plummets you start to feel your hands and feet tingling...
+[DEATH OCCURS] Gripped by anxiety and panic, you decide to brave the cold without any resources.  You jump from the deck onto the sea ice and begin to walk.  Visibility is poor and the wind is fierce.  Instead of walking towards the shore you walk farther out onto the sea ice...
+END
+scenID= 6
+[SCENARIO] BIG DECISIONS
+[DESCRIPTION] Time to check your inventory and see what you’ve found! [PLAYER STATUS] UPDATED.
+Inspect Environment
+Done viewing items
+“I don’t need these.  Only losers use items!”
+“I don’t feel like living anymore…”
+[INSPECT ENVIRONMENT] New [ITEMS] available! Check your [PLAYER STATUS].  To exit the your [INVENTORY] press 0.
+[YOU SUCCEED] Having carefully selected the items you wanted, you are ready to brave the arctic trek to the shore.
+[YOU FAIL] Maybe you’re not the brightest...you reconsider and pick up the items but your blunder has cost you.
+[DEATH OCCURS]  You decide to brave the cold without any resources.  You leave the brig and jump from the deck onto the sea ice.  Visibility is poor and the wind is fierce.  You walk for about a mile before succumbing to the cold...
+END
+scenID= 7
+[SCENARIO] INVENTORY REDEMPTION
+[DESCRIPTION]  You are cold and feeling sluggish, tired even.  As you start to leave you notice something behind one of the boxes.  It appears to be the trap door to the lower bowels of the ship.  It is locked.  The brig keys are still hanging next to the door.
+Inspect Environment
+Ignore the trap door and leave
+Try to force open the trap door
+Use the keys to unlock the trap door
+[INSPECT ENVIRONMENT] You’re running out of time.
+[YOU SUCCEED]  After debating silently for a moment, you decide you don’t have time to take a detour.
+[YOU FAIL] You try and use the harpoon to pry open the lock, just like you did to your chains.  [5 MINUTES LATER…] Unsuccessful you give up, who knows what your crewmates might have left down there.  By now you feel frozen and have difficulty prying your cold fingers off the harpoon.  You are shivering uncontrollably.
+[DEATH OCCURS] You open the trap door but everything is dark inside.  Unable to see, you climb down the ladder.  Halfway to the bottom you hear an explosive sound; the splintering of wood and roar of rushing water.  Sea water begins to pour down the hole and knocks you from the ladder.  You can’t get out.
+END
+scenID= 8
+[SCENARIO] LIFEBOAT WOES
+[DESCRIPTION]  Filled with adrenaline and fear, you failed to notice the water slowly leaking into your lifeboat.  There are no noticeable holes to patch, just warped, rotten, wood.  The sea water is seeping between the cracks on the floor of your unseaworthy vessel.  You need to get to shore quickly.
+Inspect Environment
+Ignore the water and continue rowing as fast as you can.
+Attempt to plug the largest fissures on the bottom of your boat
+Jump onto the sea ice and travel by foot to shore
+[INSPECT ENVIRONMENT] All light will be gone soon.  The choppy ocean is causing your boat to pitch left and right.
+[YOU SUCCEED] Ignoring the rising water, you row as hard as you can.  The water has filled nearly half the boat but you have reached the shore.
+[YOU FAIL] As you’re trying to figure out how to patch your boat you notice the pathway between the ice is starting to freeze over.  Panicking you know you don’t have time to fix anything and start to row.
+[DEATH OCCURS] You jump out of the boat onto the ice, leaving your lifeboat to its’ fate.  The recently agitated ocean has washed over the sea ice and caused a new slippery layer of ice to form.  You lose your footing and slide into the water.  The edges of the ice is slick and you can’t pull yourself out.
+END
+scenID= 9
+[SCENARIO] You race to shore against the fading daylight.  You’re starting to notice you can no longer feel your fingers and are at risk of frostbite.  The oar is wet and the water is turning into ice, chilling your hands.
+[DESCRIPTION]
+Inspect Environment
+Take a moment to quickly scrape off the ice.
+Ignore your numb hands and continue rowing.
+Jump onto the sea ice and travel by foot to shore
+[INSPECT ENVIRONMENT]  The light is fading, the snow is starting to white out your view of the shore.
+[YOU SUCCEED]  You scrape the ice as fast as you can.  Losing fingers won’t help you.
+[YOU FAIL] Your frantic rowing is splashing the water onto your oar.  The water turns into ice and freezes your fingers to the oar.
+[DEATH OCCURS] You jump out of the boat onto the ice, leaving your lifeboat to its’ fate.  The recently agitated ocean has washed over the sea ice and caused a new slippery layer of ice to form.  You lose your footing and slide into the water.  The edges of the ice is slick and you can’t pull yourself out.
+END
+scenID= 10
+[SCENARIO] DARKNESS
+[DESCRIPTION]  You’ve reached the shore. Light is fading fast and you will need to find shelter if you want to live through the night.  [HINT] Inspect Environment.
+Inspect Environment
+Go right, towards the forest.
+Stay with your boat
+Go left, towards the boulders.
+[INSPECT ENVIRONMENT]  To your right there is a dense forest of fur trees but you risk entangling with the wildlife.  To your left, there are large boulders covering the face of a steep, rocky, hill.  You could use your boat for shelter but you risk exposing yourself to the elements.
+[YOU SUCCEED]  The cover from the forest is what you need.  Swiftly, you gather your supplies and move towards the forests’ border.
+[YOU FAIL]  You flip your boat over and use your harpoon to dig some of the snow from underneath it, creating a shelter.  This has taken you considerable time and you’re shivering uncontrollably.
+[DEATH OCCURS]  You attempt to climb the boulders to find a space between them to setup camp.  While climbing, a boulder comes loose and crushes you.
+END
+scenID= 11
+[SCENARIO] A BOAT IS NOT AN IGLOO
+[DESCRIPTION]  While inside your boat trying to warm up, you notice you’re feeling pangs of hunger.The sound from the snow and wind are making it difficult to hear the approaching footsteps...
+Inspect Environment
+Eat now.
+Wait to eat until morning...
+Abandon the boat and head towards the forest.
+[INSPECT ENVIRONMENT]  You can’t see or hear anything, the inside of your boat is dark.  The space is cramped uncomfortable.  You can feel the wind through boats’ the weathered boards.
+[YOU SUCCEED]  You eat a tiny portion of your [BRINED PORK] from your bag.
+[YOU FAIL]  Ignoring your hunger you decide to sleep.
+[DEATH OCCURS]  The situation is dire and you don’t think you’ll make it through the night if you stay here.  You leave the safety of your boat through the entrance you dug out.  Upon emerging from your shelter you find yourself face to face with a bear.  All hope is lost.
+END
+scenID= 12
+[SCENARIO] WHAT’S THAT NOISE
+[DESCRIPTION]  You’ve setup your shelter and it’s not too shabby.  At least you feel safe here.  About an hour into your sleep you hear scratching.  It sounds like an animal is trying to get to you.
+Inspect Environment
+Sit quietly and don’t move.
+Start shouting.
+Confront the noise.
+[INSPECT ENVIRONMENT]  It’s too dark to see anything.
+[YOU SUCCEED]  Maybe if you don’t move it will leave.  You sit perfectly still.
+[YOU FAIL]  Hoping to scare it off you begin to shout.  You poke your harpoon out of your shelter entrance and wave it around.  Suddenly, you feel a sharp pain in your arm and pull it back in the discover you have a gaping [BITE WOUND].
+[DEATH OCCURS]  Upon emerging from your shelter you find yourself face to face with a bear.  All hope is lost.
+END
+scenID= 13
+[SCENARIO] YOU VS. BEAR
+[DESCRIPTION]  The sounds become clearer.  You can hear the bear attempting to get in.  Your only chance is to try and escape before it gets to you.
+Inspect Environment
+Distract the bear.  Throw a small piece of food out of the entrance.
+Intimidate the bear with your harpoon.
+Make a run for it.
+[INSPECT ENVIRONMENT] You need to escape!  You can see it’s large paws digging at the entrance to your shelter.
+[YOU SUCCEED]  You decide to throw a tiny piece of [BRINED PORK] out of your shelter’s entrance.  You hear the bear go after it and make a run for it.
+[YOU FAIL]  You’re feeling brave and decide to try and intimidate the bear with your harpoon.  You charge out of your shelter brandishing the weapon.  The bear stands on its’ hind legs and roar ferociously, grabbing your arm in its’ mouth.  You pull away and start to run.
+[DEATH OCCURS]  Upon emerging from your shelter you find yourself face to face with a bear.  You’re frozen by fear.  All hope is lost.
+END
+scenID= 14
+[SCENARIO] BEAR ATTACK
+[DESCRIPTION]  You sprint through the woods and you can hear the bears’ footsteps behind you.
+Inspect Environment
+Ahead of you is a massive tree with a hollowed out base.
+Keep running.
+Climb a tree.
+[INSPECT ENVIRONMENT]  Can you outrun a bear?  Getting into that hole in the tree would be a tight fit but maybe you can do it?
+[YOU SUCCEED]  You throw your bag into the hole ahead of you and squeeze yourself into it.  You just fit.  Thick sap covers your clothes hiding your scent...the bear runs right past you.
+[YOU FAIL]  You zig zag between trees running as fast as you can.  The bears’ footsteps become fainter and fainter until you can no longer hear them...but now you are lost.
+[DEATH OCCURS]  Bears can climb trees.  There is no escape.
+END
+scenID= 15
+[SCENARIO] LOST IN THE WOODS
+[DESCRIPTION]  You continue walking but can’t seem to get your bearings.  What now?
+Inspect Environment
+Wait until daylight
+Go north
+Go south
+[INSPECT ENVIRONMENT]  “I’m not sure which way I came from”
+[YOU SUCCEED]  You decide to wait it out in a tree until morning.
+[YOU FAIL]  You’re pretty sure you know which way is north, you keep walking but the exposure is getting to you. You walk all night, the loneliness and quiet of the forest gets to you.
+[DEATH OCCURS]  You walk south, you are being followed by a pack of wolves.
+END
+scenID= 16
+[SCENARIO]  The morning light comes through the trees.  In the distance you can see a small stream of smoke.  There’s people!
+[DESCRIPTION]
+Inspect Environment
+Head towards the camp.
+What if it’s my crewmates….maybe I’m better off on my own.
+Make your own fire, maybe they will come and find you.
+[INSPECT ENVIRONMENT]  Is it your crewmates…..or someone else?
+[YOU SUCCEED]  You find the camp.  Fortunately, it doesn’t appear to be the crew from your ship!
+[YOU FAIL]  You don’t know where you are….you should really turn back.  You’re running out of supplies and need help.
+[DEATH OCCURS]  The bear is attracted to the commotion...you are too tired and cannot escape.
+END

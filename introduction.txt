@@ -1,0 +1,41 @@
+                                +-----------------------------------------------------------------------------------+
+                                |         ___               |###################|     |########|      |##########|  |
+                                |       _|###|_             |###################| __   |#######|      |##########|  |
+                                |      |#######|                 |#######|       |##|____|####|        |#########|  |
+                                |     |#########|_               |####|           |###########|         |#####|     |
+                                |    |############|                                |##########|         |###|_      |
+                                |   |##########  ______                           _|##########|         |#####|__   |
+                                |   |######|   |#######|                         |###########|           |#######|  |
+                                |   |####|   |##########| __ ____                 |###########|          |#####|    |
+                                |    |##|   |##########|_|## ####|                   |#########|     ___            |
+                                |             |###########| |#####|                   |####| |##|   |###|__         |
+                                |          |##############| |#####|                     |#|         |######|        |
+                                |          |#####################|  VICTORIA                       |########|_      |
+                                |             |##################|       ISLAND                    |##########|     |
+                                |         ______  |###############|                                |###########|    |
+                                |        |######|  |##############|___                             |############|   |
+                                |        |########| ##################|                            |#############|  |
+                                |           |##########################|                             |###########|  |
+                                |            |#######################|##|  HMS EREBUS                |###########|  |
+                                |             |####################|__       [X]      KING WILLIAM     |#########|  |
+                                |_______                |#####|  |####|              _   ISLAND       |##########|  |
+                                |#######|_____                                      |#|_                |########|  |
+                                |#############|___                                  |###|_             _______|##|  |
+                                |#################|_                              _|#####|_           |###########| |
+                                |###################|__                          |#########|__       |#############||
+                                |######################|____                    |#############|     |###############|
+                                |###########################|______                |#########|     |################|
+                                |##################################|___                  |##|  ___|#################|
+                                |######################################|______________________|#####################|
+                                |###################################################################################|
+                                +-----------------------------------------------------------------------------------+
+                                              _____ _    _          _____ _______ ______ _____    __
+                                             / ____| |  | |   /\   |  __ \__   __|  ____|  __ \  /_ |
+                                            | |    | |__| |  /  \  | |__) | | |  | |__  | |__) |  | |
+                                            | |    |  __  | / /\ \ |  ___/  | |  |  __| |  _  /   | |
+                                            | |____| |  | |/ ____ \| |      | |  | |____| | \ \   | |
+                                             \_____|_|  |_/_/    \_\_|      |_|  |______|_|  \_\  |_|
+
+    The year is 1845; you are an experienced scientist and explorer aboard the HMS Erebus.  The purpose of your expedition is to gather magnetic data in the Canadian Arctic and explore the last unnavigated section of the Northwest Passage.  Despite reaching Baffin Bay by August, winter came quickly and overwhelmed your ship, causing it to become icebound in the Victoria Straight.  For two months the crew waited patiently, hoping the sea ice would give way, but the ship was firmly embedded in its icy snare.  After several men died of hypothermia your captain, John Franklin, decided the only hope of rescue was to the south, near King William Island.  You disagree, believing that immenent rescue during the artic winter is unlikely, your only hope is to make landfall as soon as possible.  This means traveling farther north to reach the much closer Victoria Island.  An arguement ensues and, citing insubordination, Captain Franklin forsakes you.  It has been three days since the crew left. You remain locked in the brig alone, abandoned to your fate.
+
+

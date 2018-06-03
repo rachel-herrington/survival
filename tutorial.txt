@@ -1,0 +1,22 @@
+    _       _____ _    _ _______      _________      __     _        _______ _    _ _______ ____  _____  _____          _           _
+ /\| |/\   / ____| |  | |  __ \ \    / /_   _\ \    / /\   | |      |__   __| |  | |__   __/ __ \|  __ \|_   _|   /\   | |       /\| |/\
+ \ ` ' /  | (___ | |  | | |__) \ \  / /  | |  \ \  / /  \  | |         | |  | |  | |  | | | |  | | |__) | | |    /  \  | |       \ ` ' /
+|_     _|  \___ \| |  | |  _  / \ \/ /   | |   \ \/ / /\ \ | |         | |  | |  | |  | | | |  | |  _  /  | |   / /\ \ | |      |_     _|
+ / , . \   ____) | |__| | | \ \  \  /   _| |_   \  / ____ \| |____     | |  | |__| |  | | | |__| | | \ \ _| |_ / ____ \| |____   / , . \
+ \/|_|\/  |_____/ \____/|_|  \_\  \/   |_____|   \/_/    \_\______|    |_|   \____/   |_|  \____/|_|  \_\_____/_/    \_\______|  \/|_|\/
+
+
+
+
+                        GAME MECHANICS:
+                        1. Each Scenario has 1 successful option, 1 fatal option, and 1 failure option.
+                        2. If you fail you will recieve an [AFFLICTION].
+                        3. 2 x [AFFLICTION] will result in a [GREVIOUS AFFLICTION] and an automatic death.
+                        4. To check your [INVENTORY] and [AFFLICTIONS] select [PLAYER STATUS]
+                        5. You can remove an [AFFLICTION] by using the correct [ITEM] in your inventory.
+                        6. There are less total [ITEMS] than there are possible [AFFLICTIONS].
+                        7. The game saves your progress if you exit to Main Menu but NOT if you completely exit the game.
+
+
+
+

@@ -1,0 +1,91 @@
+
+afflictionID= 4
+[ITEM] WOOL GLOVES
+Thick wool gloves.
+[USED ITEM] EQUIPPED WOOL GLOVES
+[ITEM UNUSABLE] This item can’t help you with your current ailments.
+[CURES] FROSTBITE
+END
+afflictionID= 4
+[ITEM] SNOW BOOTS
+Fur-covered snow boots.
+[USED ITEM] EQUIPPED SNOW BOOTS
+[ITEM UNUSABLE] This item can’t help you with your current ailments.
+[CURES] FROSTBITE
+END
+afflictionID= 3
+[ITEM] TINDERBOX
+Tinderbox containing flint and steel.
+[USED ITEM] USED TINDERBOX TO START A FIRE
+[ITEM UNUSABLE] This item can’t help you with your current ailments.
+[CURES] HYPOTHERMIA
+END
+afflictionID= 3
+[ITEM] FUR COAT
+An old, thick fur coat.
+[USED ITEM] EQUIPPED FUR COAT
+[ITEM UNUSABLE] This item can’t help you with your current ailments.
+[CURES] HYPOTHERMIA
+END
+afflictionID= 7
+[ITEM] BRASS COMPASS
+A compass, useful if you’ve lost your bearings.
+[USED ITEM] USED BRASS COMPASS TO FIND YOUR WAY
+[ITEM UNUSABLE] This item can’t help you with your current ailments.
+[CURES] DISORIENTED
+END
+afflictionID= 7
+[ITEM] MAP
+A map, useful if you’ve lost your bearings.
+[USED ITEM] USED MAP TO FIND YOUR WAY
+[ITEM UNUSABLE] This item can’t help you with your current ailments.
+[CURES] DISORIENTED
+END
+afflictionID= 1
+[ITEM] BOTA BAG
+A leather drinking bag filled with a large amount of distilled water.  Not fresh but will do the trick.
+[USED ITEM] DRANK FROM BOTA BAG
+[ITEM UNUSABLE] This item can’t help you with your current ailments.
+[CURES] BOTULISM
+END
+afflictionID= 2
+[ITEM] SHIP’S BISCUITS
+Stale Ship’s Biscuits, an old sailor’s bread made of just flour and water.
+[USED ITEM] CONSUMED SHIP’S BISCUITS
+[ITEM UNUSABLE] This item can’t help you with your current ailments.
+[CURES] STARVATION
+END
+afflictionID= 2
+[ITEM] BRINED PORK
+Salted, brined pork.
+[USED ITEM] CONSUMED BRINED PORK
+[ITEM UNUSABLE] This item can’t help you with your current ailments.
+[CURES] STARVATION
+END
+afflictionID= 0
+[ITEM] PRIMITIVE MEDKIT
+A one time use medkit for splinting sprains and broken bones.
+[USED ITEM] PRIMITIVE MEDKIT
+[ITEM UNUSABLE] This item can’t help you with your current ailments.
+[CURES] BROKEN BONES
+END
+afflictionID= 5
+[ITEM] BANDAGES
+Dusty cloth bandages.  Not sterile but might be useful.
+[USED ITEM] BANDAGES
+[ITEM UNUSABLE] This item can’t help you with your current ailments.
+[CURES] BITE WOUND
+END
+afflictionID= 8
+[ITEM] OLD JOURNAL
+An old journal in which to write one’s thoughts.
+[USED ITEM] OLD JOURNAL
+[ITEM UNUSABLE] This item can’t help you with your current ailments.
+[CURES] DELIRIUM
+END
+afflictionID= 6
+[ITEM] COFFEE
+Coffee grounds inside a small linen bag.  This is quite a luxury for a sailor.
+[USED ITEM] CONSUMED COFFEE
+[ITEM UNUSABLE] This item can’t help you with your current ailments.
+[CURES] EXHAUSTION
